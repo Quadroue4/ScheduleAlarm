@@ -1,0 +1,5 @@
+when add new alarm,
+add location information too.
+
+so that alarm estimate u are in school so u do studying,
+or u are in pcroom so u are doing playing.
